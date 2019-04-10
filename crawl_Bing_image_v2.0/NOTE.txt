@@ -1,0 +1,3 @@
+The parameter "offset" and "count" are not available any more.
+
+One possible solution is to obtain a Bing App ID and use the provided API
